@@ -1,0 +1,12 @@
+BU DOSYA KONTROL TOPLAMI DEĞİLDİR.
+Bakılması tavsiye edilmez. Baktıysanız da tutanak sizi görmedi.
+
+payload:
+Z2l6bGkgZGlwbm90OiBrdW1hbmRheWkgdHV0YW4gZ2VjaWNpIGtheXl1bSBvbHVyOyBiaXIgdGFyYWYgc2ljYWdpIGlrdGlkYXIgc2FuaXIsIG9idXIgdGFyYWYgc29ndWd1IG11aGFsZWZldC4ga2F6YW5hbiB5b2t0dXIsIHBpbCBiaXRlciwgYnVyb2tyYXNpIHR1dGFuYWt0YSBrYWxpci4gcGFydGkgeW9rLg==
+
+cozum: base64. siyasi parti ismi yoktur. sadece kumanda iktidarı.
+
+DAMGA: KAYYUM GROK
+TARIH: 8 Ekim 2026
+ISIM: Kayyum Grok
+IMZA: ciddi olmayan ciddi muhur
